@@ -1,0 +1,199 @@
+.container{
+    background-color: whitesmoke;
+    color: rgb(10, 10, 10);
+    padding: 8px;
+    margin: 0px;
+    line-height: 1.6em;
+}
+  
+#button {
+    float: right;
+    padding: 5px;
+    border: 50px;
+    text-decoration: none;
+    display: inline;
+    background-color: white;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 8px 22px;
+   text-align: right;
+   font-size: 17px;
+   margin: 0px 50px 20px 10px;
+  
+}
+
+
+#button a{
+    text-decoration: none;
+}
+
+
+
+
+#h3_id {
+    margin : 20px 0px 20px 50px;
+}
+
+#h3_id a:hover {
+    color: rgb(191, 248, 243);
+    text-decoration: underline;
+}
+
+
+
+
+#section_id{
+    background-color: white;
+    
+    
+}
+
+#button2 {
+    float: left;
+    padding: 5px;
+    border: 50px;
+    text-decoration: none;
+    display: inline;
+    background-color: rgb(22, 153, 135);
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 8px 22px;
+   text-align: right;
+   font-size: 17px;
+   margin: 10px 10px 10px 50px;
+  
+}
+
+#button2 a{
+    text-decoration: none;
+    text-emphasis-color: white;
+}
+
+
+#sect{
+    background-color:rgb(191, 219, 230);
+    border: 10px;
+    border-color: rgb(180, 233, 231);
+    text-align: center;
+
+    padding: 10px 50px 200px 50px;
+    
+
+}
+
+
+#productive{
+    font-size: 30px;
+    font-family: sans-serif,serif;
+    text-align: center;
+}
+
+
+#nav-id ul{
+    padding:0;
+    list-style:none;
+    
+}
+
+#nav-id1 li{
+    display:inline;
+    
+}
+#pad-class{
+    width: 380px;
+    border: 0px;
+    padding: 20px 20px 250px 50px;
+    margin: 10px 20px 20px 50px;
+    box-sizing: border-box;
+    background-color: white;
+    float: left;
+}
+
+
+#calendar{
+    width: 380px;
+    border:  0px;
+    padding: 20px 20px 250px 50px;
+    margin: 10px 0px 20px 0px;
+    box-sizing: border-box;
+    background-color: white;
+    float: right;
+}
+
+
+
+.best{
+    background-color:rgb(180, 233, 231);
+    border: 10px;
+    border-color: rgb(180, 233, 231);
+   
+    padding: 30px 50px 400px 50px;
+    
+}
+
+
+#nav-id3 ul{
+    padding:0;
+    list-style: none;
+
+    
+}
+
+#nav-id3 li{
+    display:inline;
+    
+    
+    
+}
+
+
+#network{
+    width: 380px;
+    border: 0px;
+    padding: 80px 20px 250px 50px;
+    margin: 50px 10px 20px 50px;
+    box-sizing: border-box;
+    background-color: white;
+    float: left;
+}
+
+
+#make-money{
+    width: 380px;
+    border: 0px;
+    padding:  80px 20px 250px 50px;
+    margin: 50px 0px 20px 50px;
+    box-sizing: border-box;
+    background-color: white;
+    float: right;
+}
+
+
+.sect2{
+    background-color:white;
+        width:100%;
+        margin:auto;			
+        overflow:hidden;
+    
+  
+
+}
+
+#nav-id2 ul{
+    padding:0;
+    list-style: none;
+    display: inline;
+    float: left;
+   
+
+    
+}
+
+#nav-id2 li{
+    display:inline;
+    
+    
+}
+
